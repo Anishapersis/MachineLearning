@@ -1,5 +1,5 @@
-# MachineLearning
-
+#MachineLearning
+Bitcoin  is popular as the world’s first truly digital currency  The Bitcoin price is prone to volatile swings; making it historically popular for traders to speculate on. Follow the live Bitcoin price using the real-time chart, and read the latest Bitcoin news and forecasts to plan your trades using fundamental and technical analysis.
 
 Agenda: to find the time series using 
 
