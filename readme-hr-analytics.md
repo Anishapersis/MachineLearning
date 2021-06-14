@@ -1,3 +1,11 @@
+**Workforce Analytics To Predict Job Change of Data Scientists: A Data Driven Machine Learning Approach**
+
+Purpose:
+The present study aims to - 
+1. Identify and understand the factors that indicate if a person will work for the company or will not.
+2. Build different classification models using candidate data to predict the probability of candidates looking for candidates that will continue to work for the company or will look for a new job.
+
+
 ** Aim –**
 To predict the attrition rate of managers and to study the key factors behind data scientist’s leaving their job
 
